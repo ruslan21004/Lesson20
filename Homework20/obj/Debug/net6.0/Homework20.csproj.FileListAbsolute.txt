@@ -1,0 +1,15 @@
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\bin\Debug\net6.0\Homework20.exe
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\bin\Debug\net6.0\Homework20.deps.json
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\bin\Debug\net6.0\Homework20.runtimeconfig.json
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\bin\Debug\net6.0\Homework20.dll
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\bin\Debug\net6.0\Homework20.pdb
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.csproj.AssemblyReference.cache
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.AssemblyInfoInputs.cache
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.AssemblyInfo.cs
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.csproj.CoreCompileInputs.cache
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.dll
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\refint\Homework20.dll
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.pdb
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\Homework20.genruntimeconfig.cache
+D:\Beetroot C#\Lesson 20\Homework20\Homework20\Homework20\obj\Debug\net6.0\ref\Homework20.dll
